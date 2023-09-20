@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Acadêmico de Sistemas para Internet<br>🔭Estudante Dev Full Stack<br>🔭Tecnico em Mecatronica<br>
+🔭Acadêmico de Sistemas para Internet<br>🔭Tecnico em Mecatronica<br>
 
 
 ## 🌐 Socials:
